@@ -11,6 +11,7 @@ public class Solution1 {
 
         sc.nextLine();
         String s = sc.nextLine();
+        sc.nextLine();
 
         System.out.println("Int: " + i);
         System.out.println("Double: " + d);
