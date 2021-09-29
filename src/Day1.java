@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
-public class Solution2 {
-    
+public class Day1 {
+
+    //30 days of coding Day
+    //Day 1: Data Types
+
     public static void main(String[] args){
 
         int i = 4;
@@ -16,7 +19,12 @@ public class Solution2 {
 
         double d2 = sc.nextDouble();
 
-        
+        sc.nextLine();
         String s2 = sc.nextLine();
+        sc.nextLine();
+
+        System.out.println(i + i2);
+        System.out.println(d + d2);
+        System.out.println(s + s2);
     }
 }
