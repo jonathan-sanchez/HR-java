@@ -26,6 +26,6 @@ public class Day3 {
            ans = "Weird";
            // Complete the code 
         }
-        
+        System.out.println(ans);
      }
 }
