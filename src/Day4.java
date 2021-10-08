@@ -20,4 +20,11 @@ public class Day4 {
 
         System.out.println(ageStatement);
     }
+
+    public void yearPasses() {
+        age++;
+    }
+    public static void main(String[] args) {
+
+    }
 }
