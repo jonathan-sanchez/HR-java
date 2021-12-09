@@ -1,20 +1,20 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class Solution1 {
-    public static void main(String[] args){
+// public class Solution1 {
+//     public static void main(String[] args){
 
-        Scanner sc = new Scanner(System.in);
+//         Scanner sc = new Scanner(System.in);
 
-        int i = sc.nextInt();
+//         int i = sc.nextInt();
 
-        double d = sc.nextDouble();
+//         double d = sc.nextDouble();
 
-        sc.nextLine();
-        String s = sc.nextLine();
-        sc.nextLine();
+//         sc.nextLine();
+//         String s = sc.nextLine();
+//         sc.nextLine();
 
-        System.out.println("Int: " + i);
-        System.out.println("Double: " + d);
-        System.out.println("String: " + s);
-    }
-}
+//         System.out.println("Int: " + i);
+//         System.out.println("Double: " + d);
+//         System.out.println("String: " + s);
+//     }
+// }

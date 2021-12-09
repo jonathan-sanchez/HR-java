@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/gr0mmet/HackerRank/HR-java/.metadata/.plugins/org.eclipse.jdt.core
